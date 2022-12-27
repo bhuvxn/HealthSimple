@@ -1,7 +1,6 @@
 # Healthsimple Hackwestern 9 submission
 
-![Screenshot from 2022-12-27 10-55-34.png](Screenshot from 2022-12-27 10-55-34.png)
-
+<img src="Screenshot from 2022-12-27 10-55-34.png" alt="Alt text" title="Optional title">
 ## How it works?
 Developed with a react frontend, a flask backend and coheres nlp technology which is used to generate nutrition summaries
 ## User story:
