@@ -8,7 +8,7 @@ A user wants to know which nutrients are missing or having too much of in their 
 
 <img src="Screenshot from 2022-12-27 10-56-09.png" alt="Alt text" title="Optional title">
 
-## Nutrition score focused on macro: 
+## Nutrition score quality indicators: 
 Protein: essential amino acids: 
 Fat: fat source quality 
 Carbs: index on the glycemic index
