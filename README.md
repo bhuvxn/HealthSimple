@@ -6,6 +6,7 @@ Developed with a react frontend, a flask backend and coheres nlp technology whic
 ## User story:
 A user wants to know which nutrients are missing or having too much of in their diet. HealthSimple provides the user with their macronutrients score and a summarization of the benefits or drawbacks of each ingredient, as well as a summary of an article that concerns their macronutrients deficiency.  
 
+<img src="Screenshot from 2022-12-27 10-56-09.png" alt="Alt text" title="Optional title">
 
 ## Nutrition score focused on macro: 
 Protein: essential amino acids: 
