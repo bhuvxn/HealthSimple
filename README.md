@@ -19,7 +19,7 @@ Fat: fat source quality
 Carbs: index on the glycemic index
 
 ## Use case: 
-User puts in what they have in their meal, and the application provides them with a nutrtion score based on ingredient quality along with feedback generates via machine learning through coheres nlp tech
+User puts in what they have in their meal, and the application provides them with a nutrtion score based on ingredient quality along with a feedback message generated with machine learning through coheres nlp tech
 
 
 
