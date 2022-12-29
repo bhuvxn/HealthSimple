@@ -5,7 +5,7 @@
 
 
 Developed with a react frontend, a flask backend and coheres nlp technology which is used to generate nutrition summaries
-
+Nutritonal data is webscraped using python beautiful soup, the nutritional data of user entered ingredients is then put through cohere ai which turns it into a feedback message with a custom made ml model
 
 ## User story:
 
